@@ -1,2 +1,2 @@
-# react-rand-user
-React-redux application displaying for random users from the https://randomuser.me API
+# react-random-user
+React-redux application displaying random users from the https://randomuser.me API
